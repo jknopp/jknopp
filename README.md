@@ -17,6 +17,10 @@
 
 ### 📘 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Randomly Select Item from Array Based on Frequency](https://jonknopp.com/javascript/Randomly-Select-Item-from-Array-Based-on-Frequency/)
+- [My Cross Platform Development Environment](https://jonknopp.com/docker/My-Cross-Platform-Development-Environment/)
+- [A Windows Docker Container Series (Part 2)](https://jonknopp.com/docker/A-Windows-Docker-Container-Series-(Part-2)/)
+- [A Windows Docker Container Series (Part 1)](https://jonknopp.com/docker/A-Windows-Docker-Container-Series-(Part-1)/)
 <!-- BLOG-POST-LIST:END -->
 
 
