@@ -7,15 +7,13 @@
 
 
 - 🔭 I’m currently working on ...
-
 - 🌱 I’m currently learning **Vue 3, CQRS & Event Sourcing, Clean Architecture**
+- 💬 Ask me about **Azure, C#, Vue, Application Insights**
+- 📫 How to reach me: **owner@jonknopp.com**
+- ⚡ Fun facts: **Snowboarding🏂 Camping🏕 Offroading🏔**
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about **Azure, C#, Vue, Application Insights**
-
-- 📫 How to reach me: **owner@jonknopp.com**
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun facts: **Snowboarding🏂 Camping🏕 Offroading🏔**
 
 
 ### 📘 Blogs posts
