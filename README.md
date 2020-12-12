@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Jon Knopp</h1>
 <h3 align="center">A Senior Software Engineer @ Laughlin.</h3>
-
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=jknopp" alt="jknopp" />
+</p>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
