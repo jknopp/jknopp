@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Jon Knopp</h1>
 <h3 align="center">A Senior Software Engineer @ Laughlin.</h3>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=jknopp" alt="jknopp" />
+  <img src="https://komarev.com/ghpvc/?username=jknopp" alt="jknopp" />
+  <img src="https://img.shields.io/website?label=jonknopp.com&down_color=lightgrey&down_message=down&up_color=blue&up_message=up&url=https%3A%2F%2Fjonknopp.com"
 </p>
 
 
