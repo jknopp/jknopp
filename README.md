@@ -33,10 +33,10 @@
 
 
 ### 📊 Some Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jknopp&layout=compact" alt="jknopp" />
-</p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jknopp&show_icons=true" alt="jknopp" />
 </p>
+<!--
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jknopp&layout=compact" alt="jknopp" />
+</p> -->
