@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on **.Net Core/5, ES6, Docker, SQL, OpenAPI**
-- 🌱 I’m currently learning **Vue 3, CQRS & Event Sourcing, Clean Architecture**
+- 🌱 I’m currently learning **Vue 3 & TypeScript, CQRS & Event Sourcing, Clean Architecture**
 - 💬 Ask me about **Azure, C#, Vue, Application Insights**
 - 📫 How to reach me: **owner@jonknopp.com**
 - ⚡ Fun facts: **Snowboarding🏂, Camping🏕, Offroading🏔**
